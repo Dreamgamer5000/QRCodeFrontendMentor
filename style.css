@@ -1,0 +1,56 @@
+/* 
+- White: hsl(0, 0%, 100%)
+- Light gray: hsl(212, 45%, 89%)
+- Grayish blue: hsl(220, 15%, 55%)
+- Dark blue: hsl(218, 44%, 22%)
+ */
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit";
+
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card img {
+  width: 290px;
+  height: auto;
+  border-radius: 5%;
+}
+.card {
+  margin: 0;
+  background-color: white;
+  padding: 15px;
+  height: 467px;
+  width: 290px;
+  border-radius: 5%;
+  text-align: center;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.card h2 {
+  font-weight: 700;
+  padding: 0 5px;
+}
+
+.card p {
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  padding: 0 5px;
+}
+.attribution {
+  margin-top: 7px;
+  font-size: 11px;
+  text-align: center;
+  color: black;
+}
+
+.attribution a {
+  color: darkgoldenrod;
+}
