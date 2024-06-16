@@ -18,9 +18,9 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![](images\my-project-image-mobile.png)
+![](https://github.com/Dreamgamer5000/QRCodeFrontendMentor/blob/main/images/my-project-image-mobile.png)
 
-![](images\my-project-image-desktop.png)
+![](https://github.com/Dreamgamer5000/QRCodeFrontendMentor/blob/main/images/my-project-image-desktop.png)
 
 ### Links
 
